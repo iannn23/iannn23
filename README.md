@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
     <h1>Stats</h1>
     <a href = "https://github.com/iannn23/">
-        <img src="https://github-profile-trophy.vercel.app/?username=iannn23&column=-1&theme=dracula&rank=-C,-B,-?" />
+        <img src="https://github-profile-trophy.vercel.app/?username=iannn23&column=-1&theme=dracula&rank=-?" />
         <br>
         <img src="https://github-readme-stats.vercel.app/api?username=iannn23&hide=issues&count_private=true&show_icons=true&theme=dracula" height=200/>
         <br>
